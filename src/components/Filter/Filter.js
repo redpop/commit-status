@@ -1,7 +1,6 @@
 import React, { PureComponent } from 'react';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import { Delete } from 'react-feather';
-import './Filter.css';
 
 import ProjectDetails from '../ProjectDetails/ProjectDetails';
 

@@ -1,6 +1,4 @@
 import React from 'react';
-import '../ProjectList/ProjectList.css';
-import './Search.css';
 export default class ListSearch extends React.Component {
   handlePress = project => {
     let obj = {

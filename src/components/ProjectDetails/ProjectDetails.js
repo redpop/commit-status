@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './ProjectDetails.css';
 var axios = require('axios');
 
 const params = {};

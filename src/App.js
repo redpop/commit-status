@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
-import './App.css';
 import Header from './components/Header/Header';
 import ProjectList from './components/ProjectList/ProjectList';
 import AppIcon from './components/AppIcon/AppIcon';

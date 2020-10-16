@@ -25,3 +25,6 @@ yarn-error.log*
 
 # only need the yarn.lock file.
 package-lock.json
+
+# project
+/src/assets/index.css

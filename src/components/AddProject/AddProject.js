@@ -1,8 +1,5 @@
 import React from 'react';
 
-import '../ProjectList/ProjectList.css';
-import './AddProject.css';
-
 var axios = require('axios');
 /**
  * Use this to add new error messages
